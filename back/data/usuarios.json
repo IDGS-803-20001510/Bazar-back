@@ -1,0 +1,19 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "email": "alexisprado785@gmail.com",
+            "contrasena": "12345678"
+        },
+        {
+            "id": 2,
+            "email": "jhumberto@gmail.com",
+            "contrasena": "12345678"
+        },
+        {
+            "id": 3,
+            "email": "panchotec785@gmail.com",
+            "contrasena": "12345678"
+        }
+    ]
+}

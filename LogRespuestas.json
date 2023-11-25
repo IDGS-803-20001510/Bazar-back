@@ -1,0 +1,8 @@
+{
+  "fecha": "2023-11-25T06:39:01.314Z",
+  "hora": "0:39:01",
+  "method": "GET",
+  "path": "/searchUsers",
+  "status": 200,
+  "tipo": "usuario"
+},
